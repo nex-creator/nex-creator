@@ -1,7 +1,7 @@
 # Hi there, I'm Neha Sharma 👋
 
 ### 👩‍💻 About Me
-I’m a **Software QA Engineer** specializing in API, UI, and system testing for mobile applications. I have hands-on experience with a variety of tech stacks including Selenium with Java for UI automation, Jenkins, TestNG, Maven, RestAssured for API testing, TestRail, JIRA, and Postman.
+I’m a **Software QA Engineer** specializing in API, UI, and system testing for mobile applications and web applications. I have hands-on experience with a variety of tech stacks including Selenium with Java for UI automation, Jenkins, TestNG, Maven, RestAssured for API testing, TestRail, JIRA, and Postman.
 
 ### 🌱 Currently Learning
 - Python programming to expand automation and backend capabilities
