@@ -1,5 +1,3 @@
-![Portfolio Banner](https://github.com/nex-creator/nex-creator/raw/main/banner.png)
-
 👋 Hi there, I'm Neha Sharma
 
 ---
