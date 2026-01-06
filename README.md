@@ -3,7 +3,7 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a Software Engineer with over 5 years of experience in **software testing, validation, and automation** for large-scale web, mobile, and enterprise systems.  
+I’m a Software Engineer in Test with over 5 years of experience in **software testing, validation, and automation** for large-scale web, mobile, and enterprise systems.  
 I focus on ensuring **reliability, performance, and scalability** through a strong system-level understanding and architecture-driven testing.
 
 With a background in **software quality assurance, system integration, and system engineering**, I enjoy bridging the gap between development and validation — designing smarter test strategies, automation frameworks, and solutions that align with overall system architecture.
